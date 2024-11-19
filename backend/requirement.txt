@@ -1,0 +1,6 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.6.0
+llama-index==0.11.22
+openai==1.54.3
+python-dotenv==1.0.1
